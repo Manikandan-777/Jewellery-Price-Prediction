@@ -9,7 +9,6 @@ This project predicts jewellery/gold prices using Machine Learning.
 - NumPy
 - Scikit-Learn
 - Matplotlib
-
 ## Dataset
 Historical Gold Price Dataset
 
